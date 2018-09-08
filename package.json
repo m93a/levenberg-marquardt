@@ -1,5 +1,5 @@
 {
-  "name": "ml-levenberg-marquardt",
+  "name": "ml-levenberg-marquardt-m93a",
   "version": "1.1.0",
   "description": "Curve fitting method in javascript",
   "main": "./lib/index.js",
